@@ -1,0 +1,34 @@
+{
+  "clientes": [
+    {
+      "nombre": "Karen ",
+      "apellido": "Rodriguez",
+      "email": "karenyulierr@gmail.com",
+      "telefono": "122-122-2122",
+      "empresa": "empresa prueba",
+      "puesto": "puesto prueba",
+      "estado": 1,
+      "id": 1
+    },
+    {
+      "nombre": "Karen ",
+      "apellido": "Rodriguez",
+      "email": "karenyulierr@gmail.com",
+      "telefono": "122-122-2122",
+      "empresa": "empresa prueba",
+      "puesto": "puesto prueba",
+      "estado": 1,
+      "id": 2
+    },
+    {
+      "nombre": "Karen ",
+      "apellido": "Rodriguez",
+      "email": "karenyulierr@gmail.com",
+      "telefono": "122-122-2122",
+      "empresa": "empresa prueba",
+      "puesto": "puesto prueba",
+      "estado": 0,
+      "id": 3
+    }
+  ]
+}
